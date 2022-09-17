@@ -17,7 +17,7 @@ function Footer(props) {
                     </Link>
                   </div>
                   <p>
-                    Integer purus odio, placerat nec ande rhoncus in,
+                    Hellp purus odio, placerat nec ande rhoncus in,
                     ullamcorper nec dolor. on aptent taciti sociosqu.
                   </p>
                   <ul className="social-media-icons">
@@ -130,7 +130,7 @@ function Footer(props) {
               <div className="col-12 col-md-4 col-lg-4 col-xl-5">
                 <div className="copy-txt">
                   <span>
-                    Copyright 2022 <b>Crea soft</b> | Design By{" "}
+                    Copyright 2022 <b>Crea </b> | Design By{" "}
                     <Link to={"#"}>Egens Lab</Link>
                   </span>
                 </div>

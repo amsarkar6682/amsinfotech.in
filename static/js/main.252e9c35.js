@@ -11303,7 +11303,7 @@
                                             })
                                         }), (0,
                                         pe.jsx)("p", {
-                                            children: "Integer purus odio, placerat nec ande rhoncus in, ullamcorper nec dolor. on aptent taciti sociosqu."
+                                            children: "We build softwares, websites and mobile apps."
                                         }), (0,
                                         pe.jsxs)("ul", {
                                             className: "social-media-icons",
@@ -11500,12 +11500,8 @@
                                                 className: "phone",
                                                 children: [(0,
                                                 pe.jsx)("a", {
-                                                    href: "tel:05661111985",
-                                                    children: "+880 566 1111 985"
-                                                }), (0,
-                                                pe.jsx)("a", {
-                                                    href: "tel:06571111576",
-                                                    children: "+880 657 1111 576"
+                                                    href: "tel:7074664353",
+                                                    children: "+91 707 466 4353"
                                                 })]
                                             })]
                                         }), (0,
@@ -11523,12 +11519,8 @@
                                                 className: "email",
                                                 children: [(0,
                                                 pe.jsx)("a", {
-                                                    href: "tell:info@example.com",
-                                                    children: "info@example.com"
-                                                }), (0,
-                                                pe.jsx)("a", {
-                                                    href: "tell:info@support.com",
-                                                    children: "info@support.com"
+                                                    href: "tell:info@amsinfotech.in",
+                                                    children: "info@amsinfotech.in"
                                                 })]
                                             })]
                                         }), (0,
@@ -11543,7 +11535,7 @@
                                                 })
                                             }), (0,
                                             pe.jsx)("p", {
-                                                children: "168/170, Avenue 01, Mirpur DOHS, Bangladesh"
+                                                children: "W8, Mangalbari, Malda, India, 732142"
                                             })]
                                         })]
                                     })
@@ -11565,11 +11557,11 @@
                                         pe.jsxs)("span", {
                                             children: ["Copyright 2022 ", (0,
                                             pe.jsx)("b", {
-                                                children: "Crea soft"
-                                            }), " | Design By", " ", (0,
+                                                children: "AMS InfoTech"
+                                            }), " |  All Righst Reserved.", " ", (0,
                                             pe.jsx)(oe, {
                                                 to: "#",
-                                                children: "Egens Lab"
+                                                children: ""
                                             })]
                                         })
                                     })
@@ -11737,7 +11729,7 @@
                                 onClick: u,
                                 children: (0,
                                 pe.jsx)("img", {
-                                    src: "/img/logo.svg",
+                                    src: "/img/nodejs.svg",
                                     alt: "logo-img"
                                 })
                             })
@@ -11781,33 +11773,10 @@
                                     },
                                     children: [(0,
                                     pe.jsx)(oe, {
-                                        to: "#",
+                                        to: "/",
+                                        onClick: u,
                                         className: "homeOne" === p.activeMenu ? "active" : "",
                                         children: "Home"
-                                    }), (0,
-                                    pe.jsx)("i", {
-                                        className: "bi bi-chevron-down"
-                                    }), (0,
-                                    pe.jsxs)("ul", {
-                                        className: "homeOne" === p.activeMenu ? "sub-menu d-block" : "sub-menu d-none",
-                                        children: [(0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "/",
-                                                onClick: u,
-                                                className: "homeOne" === p.activeMenu ? "active" : "",
-                                                children: "Home 01"
-                                            })
-                                        }), (0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "".concat("", "/index2"),
-                                                onClick: u,
-                                                children: "Home 02"
-                                            })
-                                        })]
                                     })]
                                 }), (0,
                                 pe.jsx)("li", {
@@ -11819,119 +11788,21 @@
                                     })
                                 }), (0,
                                 pe.jsxs)("li", {
-                                    children: [(0,
-                                    pe.jsx)(oe, {
-                                        to: "#",
-                                        onClick: function() {
-                                            return f({
-                                                type: "service"
-                                            })
-                                        },
-                                        children: "Service"
-                                    }), (0,
-                                    pe.jsx)("i", {
-                                        className: "bi bi-chevron-down"
-                                    }), (0,
-                                    pe.jsxs)("ul", {
-                                        className: "service" === p.activeMenu ? "sub-menu d-block" : "sub-menu d-none",
-                                        children: [(0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "".concat("", "/service"),
-                                                onClick: u,
-                                                children: "Service"
-                                            })
-                                        }), (0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "".concat("", "/service-details"),
-                                                onClick: u,
-                                                children: "Service Details"
-                                            })
-                                        })]
-                                    })]
+                                    children: (0,
+                                    pe.jsx)(de, {
+                                        to: "".concat("", "/service"),
+                                        onClick: u,
+                                        children: "Services"
+                                    })
                                 }), (0,
                                 pe.jsxs)("li", {
-                                    children: [(0,
-                                    pe.jsx)(oe, {
-                                        to: "#",
-                                        onClick: function() {
-                                            return f({
-                                                type: "project"
-                                            })
-                                        },
-                                        children: "Project"
-                                    }), (0,
-                                    pe.jsx)("i", {
-                                        className: "bi bi-chevron-down"
-                                    }), (0,
-                                    pe.jsxs)("ul", {
-                                        className: "project" === p.activeMenu ? "sub-menu d-block" : "sub-menu d-none",
-                                        children: [(0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "".concat("", "/project"),
-                                                onClick: u,
-                                                children: "Project"
-                                            })
-                                        }), (0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "".concat("", "/project-details"),
-                                                onClick: u,
-                                                children: "Project Details"
-                                            })
-                                        })]
-                                    })]
-                                }), (0,
-                                pe.jsxs)("li", {
-                                    className: "has-child",
-                                    children: [(0,
-                                    pe.jsx)(oe, {
-                                        to: "#",
-                                        onClick: function() {
-                                            return f({
-                                                type: "blog"
-                                            })
-                                        },
-                                        children: "Blog"
-                                    }), (0,
-                                    pe.jsx)("i", {
-                                        className: "bi bi-chevron-down"
-                                    }), (0,
-                                    pe.jsxs)("ul", {
-                                        className: "blog" === p.activeMenu ? "sub-menu d-block" : "sub-menu d-none",
-                                        children: [(0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "".concat("", "/blog"),
-                                                onClick: u,
-                                                children: "Blog"
-                                            })
-                                        }), (0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "".concat("", "/blog-standard"),
-                                                onClick: u,
-                                                children: "Blog standard"
-                                            })
-                                        }), (0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "".concat("", "/blog-details"),
-                                                onClick: u,
-                                                children: "Blog Details"
-                                            })
-                                        })]
-                                    })]
-                                }), (0,
+                                    children: (0,
+                                    pe.jsx)(de, {
+                                        to: "".concat("", "/project"),
+                                        onClick: u,
+                                        children: "Projects"
+                                    })
+                                }),  (0,
                                 pe.jsxs)("li", {
                                     className: "has-child",
                                     children: [(0,
@@ -11972,14 +11843,6 @@
                                                 to: "".concat("", "/faq"),
                                                 onClick: u,
                                                 children: "FAQs"
-                                            })
-                                        }), (0,
-                                        pe.jsx)("li", {
-                                            children: (0,
-                                            pe.jsx)(de, {
-                                                to: "".concat("", "/error"),
-                                                onClick: u,
-                                                children: "Error 404"
                                             })
                                         })]
                                     })]
@@ -12493,56 +12356,6 @@
                                 })]
                             })
                         }), (0,
-                        pe.jsx)("div", {
-                            className: "row justify-content-center",
-                            children: (0,
-                            pe.jsx)("div", {
-                                className: "col-12 col-md-8 col-lg-6",
-                                children: (0,
-                                pe.jsx)("div", {
-                                    className: "price-table-tab",
-                                    children: (0,
-                                    pe.jsxs)("ul", {
-                                        className: "nav nav-pills",
-                                        id: "pills-tab",
-                                        role: "tablist",
-                                        children: [(0,
-                                        pe.jsx)("li", {
-                                            className: "nav-item",
-                                            role: "presentation",
-                                            children: (0,
-                                            pe.jsx)("button", {
-                                                className: "nav-link active",
-                                                id: "pills-home-tab",
-                                                "data-bs-toggle": "pill",
-                                                "data-bs-target": "#pills-home",
-                                                type: "button",
-                                                role: "tab",
-                                                "aria-controls": "pills-home",
-                                                "aria-selected": "true",
-                                                children: "Pay Monthly"
-                                            })
-                                        }), (0,
-                                        pe.jsx)("li", {
-                                            className: "nav-item",
-                                            role: "presentation",
-                                            children: (0,
-                                            pe.jsx)("button", {
-                                                className: "nav-link",
-                                                id: "pills-profile-tab",
-                                                "data-bs-toggle": "pill",
-                                                "data-bs-target": "#pills-profile",
-                                                type: "button",
-                                                role: "tab",
-                                                "aria-controls": "pills-profile",
-                                                "aria-selected": "false",
-                                                children: "Pay Yearly"
-                                            })
-                                        })]
-                                    })
-                                })
-                            })
-                        }), (0,
                         pe.jsxs)("div", {
                             className: "tab-content",
                             id: "pills-tabContent",
@@ -12566,7 +12379,7 @@
                                             priceCatagory: "Single Business",
                                             layoutClass: "layout2",
                                             price: 15.99,
-                                            time: "Per Month",
+                                            
                                             responsive: 10,
                                             ppc: 5,
                                             seo: 10,
@@ -12584,7 +12397,7 @@
                                             priceCatagory: "Small team",
                                             layoutClass: "layout2",
                                             price: 99.5,
-                                            time: "Per Month",
+                                            
                                             responsive: 10,
                                             ppc: 5,
                                             seo: 10,
@@ -12602,7 +12415,7 @@
                                             priceCatagory: "Large Team",
                                             layoutClass: "layout2",
                                             price: 120.99,
-                                            time: "Per Month",
+                                            
                                             responsive: 10,
                                             ppc: 5,
                                             seo: 10,
@@ -17402,7 +17215,7 @@
                         className: "ken-burns-slideshow",
                         children: (0,
                         pe.jsx)("img", {
-                            src: "/img/hero-banner.jpg",
+                            src: "https://i.postimg.cc/BZLb0FGz/photo-1580927752452-89d86da3fa0a-ixlib-rb-1-2.jpg",
                             alt: "HeroBanner"
                         })
                     }), (0,
@@ -20335,7 +20148,7 @@
                                                     children: "Location"
                                                 }), (0,
                                                 pe.jsx)("p", {
-                                                    children: "168/170, Avenue 01, Old York Drive Rich Mirpur DOHS, Bangladesh"
+                                                    children: "W8, Mangalbari, Malda, India, 732142"
                                                 })]
                                             })]
                                         }), (0,
